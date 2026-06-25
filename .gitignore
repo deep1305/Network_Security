@@ -12,3 +12,6 @@ wheels/
 test_mongodb_connetion.py
 Artifacts/
 logs/
+notes.txt
+*.db
+mlruns/
